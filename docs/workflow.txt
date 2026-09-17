@@ -1,0 +1,1 @@
+Diagram source placeholder. Convert the corresponding markdown/design notes into a visual diagram for the final report.
